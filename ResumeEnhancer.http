@@ -1,0 +1,6 @@
+@ResumeEnhancer_HostAddress = http://localhost:5250
+
+GET {{ResumeEnhancer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
